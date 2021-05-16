@@ -12,8 +12,11 @@ This Express application exposes API routes for an e-commerce's website.
 
 ## Installation
 
-Run NPM Install.\
-Run NPM Start.\
+Run npm install.\
+Run npm start.\
+Run npm start seed.\
+
+https://drive.google.com/file/d/19CQJo_eE1bJX-BlioIcwP__9fk0xXTPy/view
 
 ## Usage
 
